@@ -1,2 +1,12 @@
 remote_theme: daviddarnes/alembic@main
 title: Ricardo Semião e Castro
+
+navigation_header:
+- title: Home
+  url: /
+- title: CV
+  url: /ricardo-semiao-cv/
+
+navigation_footer:
+- title: Back to top
+  url: "#top"
