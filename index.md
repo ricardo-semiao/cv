@@ -1,9 +1,9 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
 
-# Ricardo Semião e Castro
+#
 
-**Contato:**
+## Contato
 
 - <i class="fab fa-whatsapp"></i> [+55 (11) 99907-3297](https://api.whatsapp.com/send?phone=5511999073297)
 - <i class="fas fa-envelope"></i> <ricardo.semiao@outlook.com>
@@ -51,10 +51,10 @@
 ## Projetos e premiações ([vide github](https://github.com/ricardo-semiao))
 
 -   [Modelo de previsão](https://github.com/ricardo-semiao/challenge-constdev) do fluxo de investimento na B³ com rede neural
-    - <i class="fab fa-trophy"></i> 2º no Dev Challenge (2022, Constellation A. M.)
+    - <i class="fa fa-trophy"></i> 2º no Dev Challenge (2022, Constellation A. M.)
 
 -   Análise com regressão *Ridge* e *Lasso* sobre os determinantes do salário
-    - <i class="fab fa-trophy"></i> 1º na categoria (2020, pela EESP)
+    - <i class="fa fa-trophy"></i> 1º na categoria (2020, pela EESP)
 
 -   Criação do pacote [varutils](https://ricardo-semiao.github.io/varutils/) com funções para modelos de séries de tempo
     - Em desenvolvimento
@@ -64,11 +64,11 @@
 -   Elaboração de [material educativo](https://ricardo-semiao.github.io/course-r/) sobre R 
     - Em desenvolvimento
 
--   <i class="fab fa-trophy"></i> 10º na prova ANPEC 2024 (sem E.B.)
+-   <i class="fa fa-trophy"></i> 10º na prova ANPEC 2024 (sem E.B.)
     - Prova de colocação para mestrado em economia
 
 -   Agrupamento de países por *K-means* e *hierarchical clustering* com dados da OMC
-    - <i class="fab fa-trophy"></i> 2º na categoria (2021, pela EESP)
+    - <i class="fa fa-trophy"></i> 2º na categoria (2021, pela EESP)
 
 ## Outras atividades
 
