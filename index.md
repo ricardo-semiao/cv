@@ -3,7 +3,7 @@
 ## Contato
 
 - <i class="fab fa-whatsapp"></i> [+55 (11) 99907-3297](https://api.whatsapp.com/send?phone=5511999073297)
-- <i class="fas fa-envelope"></i> <ricardo.semiao@outlook.com>
+- <i class="fas fa-envelope"></i> [ricardo.semiao@outlook.com](mailto:ricardo.semiao@outlook.com)
 - <i class="fab fa-github"></i> [github.com/ricardo-semiao](https://github.com/ricardo-semiao)
 - <i class="fab fa-linkedin"></i> [linkedin.com/in/ricardo-semiao](https://linkedin.com/in/ricardo-semiao)
 - <i class="fab fa-stack-overflow"></i> [stackoverflow.com/users/13048728](https://stackoverflow.com/users/13048728)
