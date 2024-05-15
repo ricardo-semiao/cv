@@ -1,8 +1,5 @@
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 
-
-#
-
 ## Contato
 
 - <i class="fab fa-whatsapp"></i> [+55 (11) 99907-3297](https://api.whatsapp.com/send?phone=5511999073297)
@@ -16,19 +13,19 @@
 <table>
     <tr>
         <td>Educação</td>
-        <td>Graduação em Economia --- FGV-EESP (2019 -- 2023)</td>
+        <td>Graduação em Economia - FGV-EESP (2019 - 2023)</td>
     </tr>
     <tr>
         <td></td>
-        <td>Mestrado Acadêmico em Economia --- FGV-EESP (2024 -- em andamento)</td>
+        <td>Mestrado Acadêmico em Economia - FGV-EESP (2024 - em andamento)</td>
     </tr>
     <tr>
         <td>Idiomas</td>
-        <td>Inglês fluente --- Certificado Cambridge English: Advanced (C1)</td>
+        <td>Inglês fluente - Certificado Cambridge English: Advanced (C1)</td>
     </tr>
     <tr>
         <td>Softwares</td>
-        <td>R | Python | Pacote Office | LaTeX %| Octave/Dynare</td>
+        <td>R | Python | LaTeX | Pacote Office </td>
     </tr>
 </table>
 
