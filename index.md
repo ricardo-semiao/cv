@@ -9,6 +9,7 @@
 - <i class="fab fa-linkedin"></i> [linkedin.com/in/ricardo-semiao](https://linkedin.com/in/ricardo-semiao)
 - <i class="fab fa-stack-overflow"></i> [stackoverflow.com/users/13048728](https://stackoverflow.com/users/13048728)
 
+Baixe o currículo em PDF: [clique aqui](https://raw.githubusercontent.com/ricardo-semiao/ricardo-semiao-cv/f936f27519220ffc99990a34e14875007ed0433c/text.pdf).
 
 ## Educação e habilidades
 <table>
