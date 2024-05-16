@@ -1,0 +1,30 @@
+section {
+    border-bottom: 1px solid #ccc;
+    padding: 15px 0 25px 0;
+}
+
+td {
+    padding: 0 10px 10px 0;
+}
+
+ul {
+    padding: 0 10px;
+}
+.job {
+    list-style-type: none; 
+    margin: 0 0 20px 0;
+}
+.job h3 {
+    margin: 0 0 10px 0;
+}
+.job p {
+    margin: 0 0 5px 0;
+}
+.employer {
+    display: flex;
+    justify-content: space-between;
+}
+.employer h4, p {
+    margin: 0 0 5px 0;
+    font-weight: normal;
+}
