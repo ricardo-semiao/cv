@@ -1,15 +1,26 @@
-section {
-    border-bottom: 1px solid #ccc;
-    padding: 15px 0 25px 0;
+/* Multicolumn */
+.multicolumn {
+    column-count: 2;
+}
+.multicolumn > div:first-child {
+    min-width: 200px; /* Replace with the minimum width you want */
 }
 
+/* Socials */
+.socials {
+    border-bottom: none;
+    list-style-position: inside;
+}
+
+/* Education */
 td {
     padding: 0 10px 10px 0;
 }
-
 ul {
     padding: 0 10px;
 }
+
+/* Experience */
 .job {
     list-style-type: none; 
     margin: 0 0 20px 0;
@@ -27,4 +38,19 @@ ul {
 .employer h4, p {
     margin: 0 0 5px 0;
     font-weight: normal;
+}
+
+/* Projects */
+.project {
+    list-style-position: inside;
+    margin: 0 0 10px 0;
+}
+.project p {
+    margin: 5px 0 0 10px;
+}
+
+/* Others */
+.others {
+    list-style-position: inside;
+    margin: 0 0 10px 0;
 }
