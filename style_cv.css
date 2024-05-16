@@ -13,6 +13,9 @@
 }
 
 /* Education */
+table {
+    padding: 0 0 0 10px;
+}
 td {
     padding: 0 10px 10px 0;
 }
@@ -25,19 +28,19 @@ ul {
     list-style-type: none; 
     margin: 0 0 20px 0;
 }
-.job h3 {
+.job > h3 {
     margin: 0 0 10px 0;
 }
-.job p {
+.job > p {
     margin: 0 0 5px 0;
 }
 .employer {
     display: flex;
-    justify-content: space-between;
+    align-items: center;
 }
 .employer h4, p {
-    margin: 0 0 5px 0;
     font-weight: normal;
+    margin: 0 80px 5px 0;
 }
 
 /* Projects */
